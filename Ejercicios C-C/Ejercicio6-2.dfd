@@ -1,0 +1,158 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+"Ingrese un numero para un dia del año: "
+5
+1
+1
+n
+7
+0
+1
+4
+n<=0
+7
+0
+1
+5
+n<=31
+7
+0
+1
+4
+n<59
+7
+0
+1
+4
+n<90
+7
+0
+1
+5
+n<120
+7
+0
+1
+5
+n<151
+7
+0
+1
+5
+n<181
+7
+0
+1
+5
+n<212
+7
+0
+1
+5
+n<243
+7
+0
+1
+5
+n<270
+7
+0
+1
+5
+n<304
+7
+0
+1
+5
+n<334
+7
+0
+1
+6
+n<=365
+13
+4
+1
+49
+"El numero ingresado muestra el mes de DICIEMBRE"
+13
+13
+4
+1
+49
+"El numero ingresado muestra el mes de NOVIEMBRE"
+13
+13
+4
+1
+47
+"El numero ingresado muestra el mes de OCTUBRE"
+13
+13
+4
+1
+50
+"El numero ingresado muestra el mes de SEPTIEMBRE"
+13
+13
+4
+1
+46
+"El numero ingresado muestra el mes de AGOSTO"
+13
+13
+4
+1
+45
+"El numero ingresado muestra el mes de JULIO"
+13
+13
+4
+1
+45
+"El numero ingresado muestra el mes de JUNIO"
+13
+13
+4
+1
+44
+"El numero ingresado muestra el mes de MAYO"
+13
+13
+4
+1
+45
+"El numero ingresado muestra el mes de ABRIL"
+13
+13
+4
+1
+45
+"El numero ingresado muestra el mes de MARZO"
+13
+13
+4
+1
+47
+"El numero ingresado muestra el mes de FEBRERO"
+13
+13
+4
+1
+45
+"El numero ingresado muestra el mes de ENERO"
+13
+13
+4
+1
+18
+"Numero no valido"
+13
+1

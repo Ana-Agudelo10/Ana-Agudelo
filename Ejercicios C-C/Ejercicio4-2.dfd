@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+"Ingrese una nota: "
+5
+1
+1
+n
+7
+0
+1
+3
+n<0
+7
+0
+1
+3
+n<2
+7
+0
+1
+3
+n<4
+7
+0
+1
+3
+n<6
+7
+0
+1
+3
+n<8
+7
+0
+1
+5
+n<=10
+4
+1
+22
+"Su nota no es valida"
+13
+4
+1
+21
+"Su nota es SUPERIOR"
+13
+13
+4
+1
+17
+"Su nota es BIEN"
+13
+13
+4
+1
+23
+"Su nota es SUFICIENTE"
+13
+13
+4
+1
+25
+"Su nota es INSUFICIENTE"
+13
+13
+4
+1
+17
+"Su nota es BAJA"
+13
+13
+4
+1
+22
+"Su nota no es valida"
+13
+1

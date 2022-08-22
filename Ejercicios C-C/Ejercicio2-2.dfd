@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+"Escribe tres numeros: "
+5
+1
+10
+n1, n2, n3
+7
+0
+1
+5
+n1=n2
+7
+0
+1
+5
+n1=n3
+7
+0
+1
+5
+n2=n3
+4
+1
+24
+"Los tres son distintos"
+13
+4
+1
+37
+"Hay dos numeros iguales: ",n2," ",n3
+13
+13
+4
+1
+38
+"Hay dos numeros iguales: ",n1, " ",n3
+13
+13
+4
+1
+38
+"Hay dos numeros iguales: ",n1, " ",n2
+13
+1

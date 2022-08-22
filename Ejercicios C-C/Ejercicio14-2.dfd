@@ -1,0 +1,126 @@
+ Dfd (c)
+1
+0
+1
+0
+0
+4
+1
+31
+"Ingrese un numero en grados: "
+6
+1
+6
+vuelta
+3
+360
+5
+1
+1
+n
+6
+2
+8
+posicion
+15
+trunc(n/vuelta)
+6
+angulo
+19
+n-(vuelta*posicion)
+7
+0
+1
+22
+angulo>0 and angulo<90
+7
+0
+1
+24
+angulo>90 and angulo<180
+7
+0
+1
+25
+angulo>180 and angulo<270
+7
+0
+1
+26
+angulo>270 and angulo<=360
+6
+1
+9
+cuadrante
+31
+"no pertene a ningun cuadrante"
+13
+6
+1
+9
+cuadrante
+24
+"Esta en el cuadrante 4"
+13
+13
+6
+1
+9
+cuadrante
+24
+"Esta en el cuadrante 3"
+13
+13
+6
+1
+9
+cuadrante
+24
+"Esta en el cuadrante 2"
+13
+13
+6
+1
+9
+cuadrante
+24
+"Esta en el cuadrante 1"
+13
+6
+3
+2
+pi
+6
+3.1416
+9
+radaprox 
+17
+round((n*pi)/180)
+3
+rad
+10
+(n*pi)/180
+7
+0
+1
+10
+posicion>1
+6
+1
+2
+an
+9
+" Vuelta"
+13
+6
+1
+2
+an
+10
+" Vueltas"
+13
+4
+1
+165
+" El Angulo:  ",n,"°   ",cuadrante,"   y a dado  ",posicion,"",an,".  ", "El angulo  ",n,"°   Equivale a   ",rad," rad  que es aproximadamente ", radaprox, "  rad"  
+1

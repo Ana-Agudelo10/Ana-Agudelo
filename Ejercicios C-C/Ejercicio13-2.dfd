@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"Ingrese una cantidad numerica"
+5
+1
+1
+n
+7
+0
+1
+4
+n>=0
+4
+1
+53
+"El numero no puede representar una medida de tiempo"
+13
+6
+3
+2
+ss
+8
+n mod 60
+3
+mm1
+11
+trunc(n/60)
+2
+mm
+10
+mm1 mod 60
+6
+1
+2
+hh
+13
+trunc(mm1/60)
+4
+1
+16
+hh,":",mm,":",ss
+13
+1

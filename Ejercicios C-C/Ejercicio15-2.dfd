@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+"Ingrese un año"
+5
+1
+4
+año 
+6
+3
+1
+A
+10
+año mod 19
+1
+B
+9
+año mod 4
+1
+C
+9
+año mod 7
+6
+3
+1
+D
+16
+(19*A+24) MOD 30
+1
+E
+21
+(2*B+4*C+6*D+5) MOD 7
+1
+N
+8
+(22+D+E)
+6
+2
+3
+MES
+1
+N
+2
+MN
+1
+0
+7
+0
+1
+6
+MES>31
+6
+1
+2
+M1
+7
+"Marzo"
+13
+6
+2
+3
+MES
+4
+N-31
+2
+M1
+7
+"Abril"
+13
+4
+1
+64
+"La fecha es:",MES," - ", M1, "corresponde al domingo de Pascua"
+1

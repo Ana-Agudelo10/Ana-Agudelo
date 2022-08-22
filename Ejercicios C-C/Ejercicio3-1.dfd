@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"Ingresar un numero positivo: "
+5
+1
+1
+n
+6
+2
+1
+x
+1
+2
+8
+perfecto
+1
+0
+9
+1
+4
+x<=n
+7
+0
+1
+9
+n mod x=0
+13
+6
+1
+8
+perfecto
+14
+perfecto+(n/x)
+13
+6
+1
+1
+x
+3
+x+1
+11
+7
+0
+1
+11
+perfecto =n
+4
+1
+43
+"El numero ",n, " no es un numero perfecto"
+13
+4
+1
+40
+"El numero ",n, " es un numero perfecto"
+13
+1

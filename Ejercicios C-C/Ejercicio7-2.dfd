@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"Ingrese cuantas horas trabajo "
+5
+1
+1
+h
+7
+0
+1
+4
+h<=0
+7
+0
+1
+5
+h<=40
+6
+3
+2
+ha
+11
+(h-40)*5000
+2
+hb
+7
+40*2600
+2
+hy
+5
+ha+hb
+4
+1
+22
+"Su salario es de ",hy
+13
+6
+1
+2
+hx
+6
+h*2600
+4
+1
+22
+"Su salario es de ",hx
+13
+13
+4
+1
+25
+"Este valor no es valido"
+13
+1
