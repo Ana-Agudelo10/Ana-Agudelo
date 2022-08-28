@@ -7,3 +7,12 @@ for (let a = 0; a <= numero; a++) {
         console.log(a ,'es divisor de',numero)
     }
 }
+
+function divisores(numero) {
+    for (let a = 0; a <= numero; a++) {
+        if (numero%a==0) {
+            console.log(a ,'es divisor de',numero)
+        }
+    }
+    
+}
